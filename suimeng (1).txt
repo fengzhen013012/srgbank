@@ -1,0 +1,5 @@
+Hello:what's your name,please?
+My name is LiLei.and what's your name?
+My name is Han MeiMei.
+How are you?
+I'm fine.Thank you!
